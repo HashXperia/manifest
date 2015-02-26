@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="HashXperia/device-sony-tianchi" path="device/sony/tianchi_dsds" remote="github" revision="cm-12.0_dsds" />
+  <project name="HashXperia/device-sony-yukon" path="device/sony/msm8226-common" remote="github" revision="cm-12.0_dsds" />
+  <project name="HashXperia/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" />
+  <project name="HashXperia/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-12.0_dsds" />
+  <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" />
+  <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" />
+  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" />
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" />
+</manifest>
